@@ -11,8 +11,7 @@ This repository contains a Python script for generating customizable QR codes. T
 
 ## Configuration
 
-The script reads settings from a configuration file (`configuration.conf`). Below is an example of the configuration file:
-
+The script reads settings from a configuration file (`configuration.conf`).
 ## Usage
 Install the required libraries:
 pillow, numpy and qrcode
